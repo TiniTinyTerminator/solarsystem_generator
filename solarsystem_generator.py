@@ -3,7 +3,6 @@ from collections import defaultdict
 import weakref
 
 import plotly.offline as pl
-import plotlywidget as plw
 import plotly.graph_objs as gro
 
 import pandas as pd
@@ -284,3 +283,6 @@ if __name__ == "__main__":
             )
             )
         ), filename="forces.html")
+
+
+# %%

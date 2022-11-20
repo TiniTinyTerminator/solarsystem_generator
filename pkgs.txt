@@ -1,0 +1,6 @@
+collections
+weakref
+plotly
+pandas
+xlsxwriter
+numpy
